@@ -2,7 +2,7 @@
 ## Hi there 👋
 I'm Software Developer, currently working at Rosatom State Atomiс Energy Corporation.
 
-How to contact me: Just send email to [Dysprosium92@ya.ru](mailto:Dysprosium92@ya.ru)
+How to contact me: Just send an email to [Dysprosium92@ya.ru](mailto:Dysprosium92@ya.ru) or send a message to telegram https://t.me/mamin_band1t
 
 My education: Master's Degree in Informatics and Computer Engineering.
 
